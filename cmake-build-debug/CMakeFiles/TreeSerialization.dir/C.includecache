@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaivalbhuptani/CLionProjects/TreeSerialization/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+serializeDeserialize.h
+/Users/jaivalbhuptani/CLionProjects/TreeSerialization/serializeDeserialize.h
+
+/Users/jaivalbhuptani/CLionProjects/TreeSerialization/serializeDeserialize.h
+stdio.h
+-
+
